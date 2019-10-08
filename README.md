@@ -6,4 +6,4 @@ Learn  how to use github，learn knowledge！
 加油!
 
 
-独立完后创建子分支-编辑子分支文件reademe-合并子分支！
+独立完成：创建子分支-编辑子分支文件reademe-合并子分支！
